@@ -1,2 +1,2 @@
 # Tableau
-View
+View Table
